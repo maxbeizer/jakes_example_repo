@@ -1,4 +1,3 @@
 # jakes_example_repo
-an example repo
 
-hi friends
+Repositories > repos for life!!
