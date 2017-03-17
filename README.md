@@ -1,2 +1,2 @@
 # jakes_example_repo
-an example repository
+an example repo
